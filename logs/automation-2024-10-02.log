@@ -1,0 +1,19 @@
+11:22:41.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Udemy\Selenium\Framework\grouping.xml
+
+11:23:39.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Udemy\Selenium\Framework\grouping.xml
+
+11:25:01.798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Udemy\Selenium\Framework\grouping.xml
+
+11:25:44.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Udemy\Selenium\Framework\grouping.xml
+
+11:25:59.324 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:25:59.415 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link
+11:25:59.775 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+11:25:59.777 [main] INFO  testCases.TC002_LoginTest - Providing user credentials
+11:26:00.751 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Button
+11:26:01.758 [main] INFO  testCases.TC002_LoginTest - Validating expected message
+11:26:01.792 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
